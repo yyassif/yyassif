@@ -3,4 +3,4 @@
 
 <br />
 
-I ❤️ Django!
+I ❤️ Next.js, Django, AI & ML/DL!
