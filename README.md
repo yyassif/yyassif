@@ -9,7 +9,7 @@
 
 ## About Me
 
--   🔭 Currently working as a **Software Engineer @LMP3**, focusing on AI-driven solutions
+-   🔭 Currently working as a **Full-Stack Developer @DuraClim**, focusing on developing internal solutions
 -   🚀 Specializing in scalable architectures and state-of-the-art AI technologies
 -   💻 Full-stack developer with expertise in AI/ML integration
 -   🌟 Creator of [Adeam](https://adeam.ma), the official platform for ADE ENSAM-Meknes
